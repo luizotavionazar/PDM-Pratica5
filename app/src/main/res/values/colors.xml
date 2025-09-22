@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="meu_gelo">#e5e8f0</color>
+    <color name="fundo_teclas">#b2c9dc</color>
+    <color name="cabecalho">#5084af</color>
+</resources>
